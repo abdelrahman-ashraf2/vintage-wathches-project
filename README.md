@@ -1,6 +1,6 @@
-# Chronicle Vault
+# vintage watches project
 
-Chronicle Vault is a multi-tenant vintage watch authentication and provenance
+vintage watches project is a multi-tenant vintage watch authentication and provenance
 platform built with React, Vite, Node.js, Express, and MySQL.
 
 ## Features
